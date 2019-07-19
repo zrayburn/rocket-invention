@@ -1,0 +1,9 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["Zach Rayburn <zcrhome@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.2"
+crypto = "0.0.2"

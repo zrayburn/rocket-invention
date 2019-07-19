@@ -1,0 +1,1 @@
+{"rustc":17320164621574475680,"features":"[]","target":18332044519177020947,"profile":14996655781355331481,"path":1036222786711178230,"deps":[[13920383650307801767,"rocket",false,1682055913135365100]],"local":[{"CheckDepInfo":{"dep_info":".fingerprint/hello-rocket-9f05cab3c1b1896c/dep-bin-hello_rocket-9f05cab3c1b1896c"}}],"rustflags":[],"metadata":18083159699445701450}
