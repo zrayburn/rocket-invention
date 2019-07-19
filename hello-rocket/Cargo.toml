@@ -6,4 +6,6 @@ edition = "2018"
 
 [dependencies]
 rocket = "0.4.2"
-crypto = "0.0.2"
+rust-crypto = "0.2.36"
+base64 = "0.10.1"
+rustc-serialize = "0.3.24"

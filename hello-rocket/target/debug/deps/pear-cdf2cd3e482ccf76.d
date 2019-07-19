@@ -1,0 +1,13 @@
+/workspace/rocket-invention/hello-rocket/target/debug/deps/pear-cdf2cd3e482ccf76.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/workspace/rocket-invention/hello-rocket/target/debug/deps/libpear-cdf2cd3e482ccf76.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/workspace/rocket-invention/hello-rocket/target/debug/deps/pear-cdf2cd3e482ccf76.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs:

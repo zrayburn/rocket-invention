@@ -1,0 +1,12 @@
+/workspace/rocket-invention/hello-rocket/target/debug/deps/httparse-157a8645496c0246.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/workspace/rocket-invention/hello-rocket/target/debug/deps/libhttparse-157a8645496c0246.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/workspace/rocket-invention/hello-rocket/target/debug/deps/httparse-157a8645496c0246.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs:
